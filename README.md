@@ -10,7 +10,7 @@
 
 ⚡ Fun fact: When I'm not coding, you can find me exploring the outdoors, experimenting with new recipes in the kitchen, or immersing myself in a captivating book.
 
-Check out my portfolio here to see what I've been working on!
+Check out my portfolio [here](https://dheepaks33.github.io/Portfolio/) to see what I've been working on! 
 
 <!---
 dheepaks33/dheepaks33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
