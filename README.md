@@ -6,9 +6,11 @@
 
 💼 In addition to my technical pursuits, I'm always eager to collaborate on exciting projects related to Cloud Computing, DSA, or Software Development. Let's team up and build something amazing together!
 
-📫 Feel free to reach out to me at dheepaks33@gmail.com. I'm open to discussions, collaborations, or just a friendly chat! You can also connect with me on LinkedIn to stay updated on my latest projects and endeavors.
+📫 Feel free to reach out to me at dheepaks33@gmail.com. You can also connect with me on LinkedIn to stay updated on my latest projects and endeavors.
 
 ⚡ Fun fact: When I'm not coding, you can find me exploring the outdoors, experimenting with new recipes in the kitchen, or immersing myself in a captivating book.
+
+Check out my portfolio here to see what I've been working on!
 
 <!---
 dheepaks33/dheepaks33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
